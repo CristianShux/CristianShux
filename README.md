@@ -23,19 +23,20 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![Assembler](https://img.shields.io/badge/-Assembler-05122A?style=flat&logo=assembler&logoColor=6E4C13)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;\
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![PyScripter](https://img.shields.io/badge/-PyScripter-05122A?style=flat&logo=python)&nbsp;
-![Assembler](https://img.shields.io/badge/-Assembler-05122A?style=flat&logo=assembler&logoColor=6E4C13)&nbsp;
+
 
 
 
