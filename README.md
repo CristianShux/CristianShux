@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.idol.st/u/card/art/2x/143Yazawa-Nico-How-s-Nico-s-Special-Lunches-UR-k8SYLM.png" alt="CristianShux banner" width="700"/>
+  <img src="https://i.idol.st/u/card/art/2x/143Yazawa-Nico-How-s-Nico-s-Special-Lunches-UR-k8SYLM.png" alt="CristianShux banner" width="200"/>
 </p>
 
 
