@@ -16,7 +16,7 @@
 ✉️ &nbsp;\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://c4.wallpaperflare.com/wallpaper/930/797/310/love-live-yazawa-nico-anime-girls-anime-wallpaper-preview.jpg" align="right" width="400"/>
 
 ### 🛠 &nbsp;Tech Stack
 
