@@ -1,5 +1,3 @@
-### CristianShux Banner
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png" alt="CristianShux banner" width="600"/>
 </p>
