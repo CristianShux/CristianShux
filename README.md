@@ -38,12 +38,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![PyScripter](https://img.shields.io/badge/-PyScripter-05122A?style=flat&logo=python)&nbsp;
 
-
-
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -52,7 +46,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+    
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<br><br><br><br><br><br><br><br><br><br>
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
