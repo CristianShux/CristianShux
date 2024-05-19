@@ -1,5 +1,8 @@
-![CristianShux banner](https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png)
+### CristianShux Banner
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png" alt="CristianShux banner" width="600"/>
+</p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm CristianShux</h2>
 
