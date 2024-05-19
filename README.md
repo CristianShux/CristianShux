@@ -41,12 +41,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/CristianShux">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianShux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=CristianShux&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
-</a>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianShux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianShux&show_icons=true&theme=dark&locale=en" alt="anii693" />
+  </a>
 </p>
+
     
 
 
