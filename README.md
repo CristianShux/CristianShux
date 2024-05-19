@@ -63,7 +63,7 @@
 ### 👋🏻 &nbsp;Thanks for watching!!!
 
 <p align="center">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/513/426/474/love-live-yazawa-nico-anime-wallpaper-preview.jpg" alt="CristianShux banner" width="700"/>
+  <img src="https://p4.wallpaperbetter.com/wallpaper/513/426/474/love-live-yazawa-nico-anime-wallpaper-preview.jpg" alt="CristianShux banner" width="500"/>
 </p>
 
 
