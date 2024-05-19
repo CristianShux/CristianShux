@@ -1,6 +1,7 @@
-![CristianShux banner]([[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://wallpaperwaifu.com/wp-content/uploads/2020/04/nico-yazawa-love-live-thumb.jpg)](https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png))
+![CristianShux banner](https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm CristianShux</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
