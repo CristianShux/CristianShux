@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png" alt="CristianShux banner" width="900"/>
+  <img src="https://i.pinimg.com/originals/ed/26/b1/ed26b19f6ce52deb4b43b83909ee7d4a.png" alt="CristianShux banner" width="700"/>
 </p>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm CristianShux</h2>
