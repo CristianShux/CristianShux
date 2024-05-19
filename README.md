@@ -10,12 +10,12 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and not sit still, I am curious, passionate, persevering and always looking for a way to overcome my limits.\
-🎓 &nbsp; I am currently studying a Bachelor's Degree in Systems at the General Sarmiento University in Buenos Aires-Argentina. I will soon obtain the intermediate technical degree and I am looking for my first work experience.\
+🎓 &nbsp;I am currently studying a Bachelor's Degree in Systems at the General Sarmiento University in Buenos Aires-Argentina. I will soon obtain the intermediate technical degree and I am looking for my first work experience.\
 🌱 &nbsp;I am on my way to learn more about Data Science, Artificial Intelligence, machine learning, deep learning, data methodologies, data analysis, data visualization, database and much more in the IBM Data Science Professional Certificate, which I am doing little by little.\
 ✍️ &nbsp;In my free time, you will find me playing video games, watching anime or simply taking courses.\
 💬 &nbsp;Please feel free to contact me if you have any questions or just to have an interesting discussion.\
 ✉️ &nbsp;You can email me at cljurajuria23@gmail.com! I will try to respond as soon as I can.\
-📄 &nbsp; CV
+📄 &nbsp;CV
 
 <img alt="Night Coding" src="https://i.gifer.com/origin/c5/c55168ada0afcee958560a41aba8056d.gif" align="right" width="350"/>
 
