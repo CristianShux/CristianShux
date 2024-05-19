@@ -17,7 +17,7 @@
 ✉️ &nbsp;\
 📄 &nbsp; CV
 
-<img alt="Night Coding" src="https://c4.wallpaperflare.com/wallpaper/930/797/310/love-live-yazawa-nico-anime-girls-anime-wallpaper-preview.jpg" align="right" width="350"/>
+<img alt="Night Coding" src="https://i.gifer.com/origin/c5/c55168ada0afcee958560a41aba8056d.gif" align="right" width="350"/>
 
 ### 🛠 &nbsp;Tech Stack
 
