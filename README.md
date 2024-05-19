@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.idol.st/u/card/art/2x/143Yazawa-Nico-How-s-Nico-s-Special-Lunches-UR-k8SYLM.png" alt="CristianShux banner" width="200"/>
+  <img src="https://i.pinimg.com/originals/73/e1/a9/73e1a9c148bf01745cf3484ba53b4167.jpg" alt="CristianShux banner" width="700"/>
 </p>
+
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm CristianShux</h2>
