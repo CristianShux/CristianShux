@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/73/e1/a9/73e1a9c148bf01745cf3484ba53b4167.jpg" alt="CristianShux banner" width="700"/>
+  <img src="https://e0.pxfuel.com/wallpapers/38/654/desktop-wallpaper-nico-yazawa-love-live-live.jpg" alt="CristianShux banner" width="700"/>
 </p>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm CristianShux</h2>
 
