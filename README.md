@@ -48,9 +48,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia"/>
   </a>
   <a href="https://github.com/CristianShux">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianShux&show_icons=true&theme=dark&locale=en" alt="anii693" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianShux&theme=dark" alt="anii693" />
   </a>
 </p>
+
 
     
 
