@@ -44,6 +44,8 @@
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi&logoColor=C8102E)
+
 
 
 
