@@ -39,6 +39,8 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![PyScripter](https://img.shields.io/badge/-PyScripter-05122A?style=flat&logo=python)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
