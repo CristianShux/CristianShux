@@ -42,6 +42,8 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda&logoColor=44A833)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows&logoColor=0078D4)
+
 
 
 
