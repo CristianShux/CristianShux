@@ -22,7 +22,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)
+![Java](https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![Assembler](https://img.shields.io/badge/-Assembler-05122A?style=flat&logo=assembler&logoColor=6E4C13)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
