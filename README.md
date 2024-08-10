@@ -38,6 +38,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![PyScripter](https://img.shields.io/badge/-PyScripter-05122A?style=flat&logo=python)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
