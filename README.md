@@ -7,14 +7,14 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡  &nbsp;I like to explore new technologies and not sit still, I am curious, passionate, persevering and always looking for a way to overcome my limits.\
-🎓 &nbsp;I am currently studying a Bachelor's Degree in Systems at the General Sarmiento University in Buenos Aires-Argentina. I will soon obtain the intermediate technical degree and I am looking for my first work experience.\
-🌱 &nbsp;I am on my way to learn more about Data Science, Artificial Intelligence, machine learning, deep learning, data methodologies, data analysis, data visualization, database and much more in the IBM Data Science Professional Certificate, which I am doing little by little.\
-✍️ &nbsp;In my free time, you will find me playing video games, watching anime or simply taking courses.\
-💬 &nbsp;Please feel free to contact me if you have any questions or just to have an interesting discussion.\
-✉️ &nbsp;You can email me at cljurajuria23@gmail.com! I will try to respond as soon as I can.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y no quedarme quieto, soy curioso, apasionado, perseverante y siempre busco la manera de superar mis límites.\
+🎓 &nbsp;Actualmente estoy estudiando la Licenciatura en Sistemas en la Universidad General Sarmiento en Buenos Aires-Argentina. Pronto obtendré el título técnico medio y estoy buscando mi primera experiencia laboral.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos y mucho más en el IBM Data Science Professional Certificate, que voy haciendo poco a poco.\
+✍️ &nbsp;En mi tiempo libre, me encontrarás jugando videojuegos, viendo anime o simplemente tomando cursos.\
+💬 &nbsp;No dudes en contactarme si tienes alguna pregunta o simplemente para tener una discusión interesante.\
+✉️ &nbsp;¡Puedes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
 📄 &nbsp;CV
 
 <img alt="Night Coding" src="https://i.gifer.com/origin/c5/c55168ada0afcee958560a41aba8056d.gif" align="right" width="350"/>
@@ -78,14 +78,14 @@
     
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cristian-leonel-jurajuria-58ba16256/"><img src="https://img.shields.io/badge/-Cristian%20Leonel%20Jurajuria-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:cljurajuria23@gmail.com"><img src="https://img.shields.io/badge/-cljurajuria23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 👋🏻 &nbsp;Thanks for watching!!!
+### 👋🏻 &nbsp;Gracias por ver!!!
 
 <p align="center">
   <img src="https://p4.wallpaperbetter.com/wallpaper/513/426/474/love-live-yazawa-nico-anime-wallpaper-preview.jpg" alt="CristianShux banner" width="500"/>
