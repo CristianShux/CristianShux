@@ -15,7 +15,7 @@
 ✍️ &nbsp;En mi tiempo libre, me encontrarás jugando videojuegos, viendo anime o simplemente tomando cursos.\
 💬 &nbsp;No dudes en contactarme si tienes alguna pregunta o simplemente para tener una discusión interesante.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
-📄 &nbsp;[CV](https://drive.google.com/file/d/16NCVjlYfY5CJt7vL3ZukhPB4ASsx1_8V/view?usp=sharing)
+📄 &nbsp;[CV]
 
 <img alt="Night Coding" src="https://i.gifer.com/origin/c5/c55168ada0afcee958560a41aba8056d.gif" align="right" width="350"/>
 
