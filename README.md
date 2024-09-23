@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://e0.pxfuel.com/wallpapers/38/654/desktop-wallpaper-nico-yazawa-love-live-live.jpg" alt="CristianShux banner" width="700"/>
+  <img src="https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif" alt="CristianShux banner" width="700"/>
 </p>
 
 
