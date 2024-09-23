@@ -88,7 +88,7 @@
 ### 👋🏻 &nbsp;Gracias por ver!!!
 
 <p align="center">
-  <img src="https://p4.wallpaperbetter.com/wallpaper/513/426/474/love-live-yazawa-nico-anime-wallpaper-preview.jpg" alt="CristianShux banner" width="500"/>
+  <img src="https://giffiles.alphacoders.com/195/195303.gif" alt="CristianShux banner" width="500"/>
 </p>
 
 
