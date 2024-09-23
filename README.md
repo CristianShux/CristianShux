@@ -17,7 +17,7 @@
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
 📄 &nbsp;[CV]
 
-<img alt="Night Coding" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif" align="right" width="350"/>
+<img alt="Night Coding" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif" align="right" width="300"/>
 
 ### 🛠 &nbsp;Tech Stack
 
