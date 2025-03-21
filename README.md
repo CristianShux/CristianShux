@@ -11,7 +11,7 @@
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y no quedarme quieto, soy curioso, apasionado, perseverante y siempre busco la manera de superar mis límites.\
 🎓 &nbsp;Actualmente estoy estudiando la Licenciatura en Sistemas en la Universidad General Sarmiento en Buenos Aires-Argentina. Pronto obtendré el título técnico medio y estoy buscando mi primera experiencia laboral.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos y mucho más en el IBM Data Science Professional Certificate, que voy haciendo poco a poco.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos y mucho más poco a poco.\
 ✍️ &nbsp;En mi tiempo libre, me encontrarás jugando videojuegos, viendo anime o simplemente tomando cursos.\
 💬 &nbsp;No dudes en contactarme si tienes alguna pregunta o simplemente para tener una discusión interesante.\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
