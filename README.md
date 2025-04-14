@@ -52,13 +52,6 @@
 
 
 
-
-
-
-
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -66,16 +59,12 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianShux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/CristianShux">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
   </a>
   <a href="https://github.com/CristianShux">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianShux&theme=algolia" alt="anii693" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianShux&theme=algolia" alt="CristianShux GitHub Streak"/>
   </a>
 </p>
-
-
-
-    
 
 
 ### 🤝🏻 &nbsp;Conectate conmigo
