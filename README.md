@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<img alt="Night Coding" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif" align="right" width="300"/>
+<img alt="Night Dev" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right" width="300"/>
 
 #### 👨‍💻 Lenguajes
 <p>
