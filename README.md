@@ -114,8 +114,15 @@
 ### 🤝🏻 &nbsp;Conectate conmigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/cristian-leonel-jurajuria-58ba16256/"><img src="https://img.shields.io/badge/-Cristian%20Leonel%20Jurajuria-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cljurajuria23@gmail.com"><img src="https://img.shields.io/badge/-cljurajuria23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cristian-leonel-jurajuria-58ba16256/">
+    <img src="https://img.shields.io/badge/-Cristian%20Leonel%20Jurajuria-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cljurajuria23@gmail.com">
+    <img src="https://img.shields.io/badge/-cljurajuria23@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/shuxzawa/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
 
 ### 👋🏻 &nbsp;Gracias por ver!!!
