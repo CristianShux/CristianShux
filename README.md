@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<img alt="Destiny" src="./assets/destiny.gif" align="right" width="500" height="800" />
+<img alt="Destiny" src="./assets/destiny.gif" align="right" width="400" height="800" />
 
 #### 👨‍💻 Lenguajes
 <p>
