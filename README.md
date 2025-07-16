@@ -59,6 +59,8 @@
   <img src="https://img.shields.io/badge/REST%20API-05122A?style=flat&logo=api" />
   <img src="https://img.shields.io/badge/JWT-05122A?style=flat&logo=json-web-tokens" />
   <img src="https://img.shields.io/badge/Render-05122A?style=flat&logo=render&logoColor=0099FF" />
+  <img src="https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/EC2-05122A?style=flat&logo=amazon-ec2&logoColor=FF9900" />
 </p>
 
 #### 🗄️ Bases de datos
