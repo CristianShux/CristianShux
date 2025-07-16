@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<img alt="Anime Wallpaper" src="https://media.tenor.com/vn4DftW3rx0AAAAC/anime-anime-girl.gif](https://media1.tenor.com/m/M9faAQR9q3gAAAAd/destiny.gif" align="right" width="300"/>
+<img alt="Anime Wallpaper" src="https://media.tenor.com/vn4DftW3rx0AAAAC/anime-anime-girl.gif" align="right" width="300"/>
 
 #### 👨‍💻 Lenguajes
 <p>
