@@ -103,11 +103,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianShux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=CristianShux&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CristianShux&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+  </a>
+  <a href="https://github.com/CristianShux">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianShux&theme=algolia" alt="CristianShux GitHub Streak"/>
+  </a>
 </p>
 
 
