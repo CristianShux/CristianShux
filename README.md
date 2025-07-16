@@ -17,11 +17,9 @@
 ✉️ &nbsp;¡Podes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
 📄 &nbsp;[CV]
 
-![Gif animado](./assets/destiny.gif)
-
 ### 🛠️ Tech Stack
 
-<img src="https://media1.tenor.com/m/M9faAQR9q3gAAAAd/destiny.gif" width="300" />
+<img alt="Destiny" src="./assets/destiny.gif" align="right" width="300"/>
 
 #### 👨‍💻 Lenguajes
 <p>
