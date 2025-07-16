@@ -23,14 +23,19 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![Assembler](https://img.shields.io/badge/-Assembler-05122A?style=flat&logo=assembler&logoColor=6E4C13)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)&nbsp;\
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-05122A?style=flat&logo=jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;\
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![MongoDB Compass](https://img.shields.io/badge/-MongoDB%20Compass-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Cassandra](https://img.shields.io/badge/-Cassandra-05122A?style=flat&logo=apache-cassandra&logoColor=1287B1)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IBM Watson Studio](https://img.shields.io/badge/-IBM%20Watson%20Studio-05122A?style=flat&logo=ibm-watson&logoColor=00B5FF)
