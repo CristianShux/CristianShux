@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-![Anime Wallpaper](https://media.tenor.com/vn4DftW3rx0AAAAC/anime-anime-girl.gif)
+<img alt="Night Coding" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif" align="right" width="300"/>
 
 #### 👨‍💻 Lenguajes
 <p>
