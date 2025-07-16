@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<img alt="Anime Wallpaper" src="https://media.tenor.com/vn4DftW3rx0AAAAC/anime-anime-girl.gif" width="300" />
+![Anime Wallpaper](https://media.tenor.com/vn4DftW3rx0AAAAC/anime-anime-girl.gif)
 
 #### 👨‍💻 Lenguajes
 <p>
