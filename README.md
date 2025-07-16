@@ -109,15 +109,7 @@
   <a href="https://github.com/CristianShux">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CristianShux&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
   </a>
-  <a href="https://github.com/CristianShux">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianShux&show=contribs&theme=algolia&hide_border=false&hide_title=true&card_width=600" alt="GitHub Streak"/>
-  </a>
 </p>
-
-
-
-
-
 
 ### 🤝🏻 &nbsp;Conectate conmigo
 
