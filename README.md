@@ -10,11 +10,11 @@
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y no quedarme quieto, soy curioso, apasionado, perseverante y siempre busco la manera de superar mis límites.\
-🎓 &nbsp;Actualmente estoy estudiando la Licenciatura en Sistemas en la Universidad General Sarmiento en Buenos Aires-Argentina. Pronto obtendré el título técnico medio y estoy buscando mi primera experiencia laboral.\
-🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos y mucho más poco a poco.\
-✍️ &nbsp;En mi tiempo libre, me encontrarás jugando videojuegos, viendo anime o simplemente tomando cursos.\
-💬 &nbsp;No dudes en contactarme si tienes alguna pregunta o simplemente para tener una discusión interesante.\
-✉️ &nbsp;¡Puedes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
+🎓 &nbsp;Actualmente estoy estudiando la Licenciatura en Sistemas en la Universidad General Sarmiento en Buenos Aires-Argentina. Obtuve el titulo medio de Tecnico Universitario en Informatica en la misma universidad y estoy buscando mi primera experiencia laboral.\
+🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos, programacion web y mucho más poco a poco.\
+✍️ &nbsp;En mi tiempo libre, me vas a encontrar jugando videojuegos, viendo anime o simplemente tomando cursos.\
+💬 &nbsp;No dudes en contactarme si tenes alguna pregunta o simplemente para tener una discusión interesante.\
+✉️ &nbsp;¡Podes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
 📄 &nbsp;[CV]
 
 <img alt="Night Coding" src="https://static.wixstatic.com/media/9c808c_32d2e8877a334b3593c7120840168131~mv2.gif" align="right" width="300"/>
