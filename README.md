@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-<img alt="Night Coding" src="https://c.tenor.com/M9faAQR9q3gAAAAd/tenor.gif" align="right" width="300"/>
+<img src="https://c.tenor.com/M9faAQR9q3gAAAAd/tenor.gif" width="300" />
 
 #### 👨‍💻 Lenguajes
 <p>
