@@ -17,11 +17,9 @@
 ✉️ &nbsp;¡Podes enviarme un correo electrónico a cljurajuria23@gmail.com! Intentaré responder lo antes posible.\
 📄 &nbsp;[CV]
 
-<img src="https://c.tenor.com/M9faAQR9q3gAAAAd/tenor.gif" width="300" />
-
 ### 🛠️ Tech Stack
 
-<img src="https://c.tenor.com/M9faAQR9q3gAAAAd/tenor.gif" width="300" />
+<img src="https://media1.tenor.com/m/M9faAQR9q3gAAAAd/destiny.gif" width="300" />
 
 #### 👨‍💻 Lenguajes
 <p>
