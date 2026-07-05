@@ -8,7 +8,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
-
+💼 &nbsp;Specialist Analytics en PwC\
 💡 &nbsp;Me gusta explorar nuevas tecnologías y no quedarme quieto, soy curioso, apasionado, perseverante y siempre busco la manera de superar mis límites.\
 🎓 &nbsp;Actualmente estoy estudiando la Licenciatura en Sistemas en la Universidad General Sarmiento en Buenos Aires-Argentina. Obtuve el titulo medio de Tecnico Universitario en Informatica en la misma universidad\
 🌱 &nbsp;Estoy en camino de aprender más sobre Data Science, Inteligencia Artificial, machine learning, deep learning, metodologías de datos, análisis de datos, visualización de datos, base de datos, programacion web y mucho más poco a poco.\
